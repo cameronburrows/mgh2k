@@ -1,4 +1,4 @@
-# mpg to kpl converter in python spring 2022
+# mpg to kpl converter in python 
 
 A MPG to KPL converter program written in python for ISAT 252
 
