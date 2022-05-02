@@ -24,4 +24,4 @@ pytest-watch==4.2.0
 toml==0.10.2
 tomli==2.0.1
 watchdog==2.1.6
-wrapt==1.13.
+wrapt==1.13.3
